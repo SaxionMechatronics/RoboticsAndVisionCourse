@@ -10,7 +10,7 @@ Henk Kortier 2019
 
 ### Software Development
 
----
+[LINUX USB Stick](https://askubuntu.com/questions/16988/how-do-i-install-ubuntu-to-a-usb-key-without-using-startup-disk-creator/942312#942312) 
 
 #### Editor
 
@@ -35,10 +35,13 @@ Henk Kortier 2019
 
 #### ROS
 
+- [Robotis ROS book](http://www.pishrobot.com/wp-content/uploads/2018/02/ROS-robot-programming-book-by-turtlebo3-developers-EN.pdf)
 - [Delft MOOC](https://online-learning.tudelft.nl/courses/hello-real-world-with-ros-robot-operating-systems/)
 - [Ros Industrial Training](https://industrial-training-master.readthedocs.io/en/kinetic/)
+
 
 #### OpenManipulator platform
 
 - [OpenManipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)
 - [MATLAB: Openmanipulator, controlling robot manipulator joints](https://www.youtube.com/watch?v=cmgOqrd2yiY)
+
