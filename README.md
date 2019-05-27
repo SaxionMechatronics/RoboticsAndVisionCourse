@@ -10,7 +10,11 @@ Henk Kortier 2019
 
 ### Software Development
 
-#### Linux USB stick
+#### Linux USB pendrive
+
+----
+
+**THIS PART IS UNDER DEV!!!**
 
 There are two options for preparing a USB pendrive with linux/ros.
 Always try option 1 first!
@@ -24,6 +28,10 @@ Always try option 1 first!
 2. Try the steps described in the following forum post if the first nethod didn't not work. You'll need two USB sticks; one with the live distro and one to install the distro onto. This method installs vanilla xenial. Hence, you still need to install ROS and supporting packages.
    1. Prepera a USB stick with the default live distro (white saxion)
    2. Use these [instructions](https://askubuntu.com/questions/16988/how-do-i-install-ubuntu-to-a-usb-key-without-using-startup-disk-creator/942312#942312) to install a permanent distro to a second USB stick (verbatim)
+
+**THIS PART IS UNDER DEV!!!**
+
+----
 
 #### Editor
 
